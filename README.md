@@ -11,7 +11,7 @@ A collaborative guide by
 ## Table of Contents
 - [Introduction](#introduction)
 - [Python](#python)
-- [React](#react)
+- [Kotlin](#kotlin)
 - [Javascript](#javascript)
 - [Rust](#rust)
 
@@ -26,11 +26,19 @@ Written by **Brian**
 
 >This section will be written by Brian, it should explain what Python is and how it is used today, Erase this blockquote and write your personal review
 
-## React
+## Kotlin
 
 Written by **Trevor**
 
->Section that Trevor will write about React.
+![Kotlin logo](https://tse3.mm.bing.net/th/id/OIP.oz9lr0Z2yXU6BAamm8-bawHaEW?rs=1&pid=ImgDetMain&o=7&rm=3)
+
+Kotlin is a modern programming language from JetBrains, and it's the official language for building Android apps. It runs on the JVM and is fully compatible with Java, but it's way cleaner. Kotlin is pretty much the standard choice for making an Android phone app today.
+
+### How it is used today 
+1. Android app development – by far the most common use, official Google support
+2. Backend web development – using frameworks like Ktor and Spring Boot
+3. Multiplatform apps – sharing code between Android, iOS, and web
+4. Data science and scripting – increasingly used for small automation tasks
 
 ## Javascript
 
