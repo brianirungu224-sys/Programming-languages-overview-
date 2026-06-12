@@ -10,33 +10,38 @@ Member 4
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [VS Code](#vs-code)
-- [Notion](#notion)
-- [Canva](#canva)
+- [Python](#python)
+- [React](#react)
+- [Javascript](#javascript)
+- [Rust](#rust)
 
 ## Introduction
 
 This guide covers tools that every student should know about.
 Each section is written by a different team member.
 
-## VS Code
+## Python
 
 Written by Brian
 
-VS Code (Visual Studio Code) is a free code editor developed by Microsoft. It supports many programming languages such as Python, Java, JavaScript, and C++. Features like extensions, debugging tools, and Git integration make it a popular choice for students and developers.
+>This section will be written by Brian, it should explain what Python is and how it is used today, Erase this blockquote and write your personal review
 
-## Notion
+## React
 
 Written by Trevor
 
-Notion is an all-in-one productivity tool used for note-taking, task management, and collaboration. Students can organize class notes, create study schedules, and work together on projects using shared pages.
+>Section that Trevor will write about React.
 
-## Canva
+## Javascript
 
 Written by Christine
 
-Canva is a graphic design platform that helps users create presentations, posters, resumes, social media posts, and more. It provides ready-made templates and an easy drag-and-drop interface, making design simple even for beginners.
+> This section is where Christine will write her own short review in Javascript, explaining what it is and how it is used today. This section should be erased before writing about the programming language.
+
+## Rust
+Written by *member 4*
+
+>This section is meant for the fourth member of the group (Max), he should write about what Rust as a programming language is and how it is used today. This blockquote should be erased before writing on ths section.
 
 ## Conclusion
-
-These tools can help students improve productivity, organization, and creativity. Learning how to use VS Code, Notion, and Canva can make academic work easier and more effective.# Programming-languages-overview-
+>For now this section will be left blank
