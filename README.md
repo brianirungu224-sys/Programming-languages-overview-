@@ -24,7 +24,17 @@ Each section is written by a different team member.
 
 Written by **Brian**
 
->This section will be written by Brian, it should explain what Python is and how it is used today, Erase this blockquote and write your personal review
+![Python logo](https://www.python.org/static/community_logos/python-logo.png)
+
+Python is a high-level, interpreted programming language that is known for its simplicity and readability. It is widely used in modern software development and is one of the most popular programming languages in the world today.
+
+Python is commonly used for building websites, automating tasks, analyzing data, and developing artificial intelligence systems. It is beginner-friendly and has a very large community that supports its development.
+
+### How it is used today
+1. Web development – used with frameworks like Django and Flask to build websites
+2. Data science – used for data analysis, visualization, and machine learning
+3. Automation – used to automate repetitive tasks and scripts
+4. Artificial intelligence – used in AI and machine learning projects
 
 ## Kotlin
 
