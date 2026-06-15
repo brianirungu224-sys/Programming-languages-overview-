@@ -6,7 +6,7 @@ A collaborative guide by
 - Brian
 - Trevor
 - Christine
-- Member 4
+- Maxwell 
 
 ## Table of Contents
 - [Introduction](#introduction)
