@@ -59,9 +59,9 @@ Written by **Christine**
 JavaScript is a high-level, dynamic programming language that serves as the scripting backbone for modern web interaction. While HTML establishes the structure of a webpage and CSS handles the visual styling, JavaScript adds behavior and intelligence. It allows websites to respond to user actions, calculate data inputs, and update page content dynamically in real-time without requiring a full page reload.
 
 ### How it is used today
-* **Client-Side Web Development:** Powering interactive features like drop-down menus, modal windows, form validations, and complex animations directly in the user's browser.
-* **Full-Stack Web Applications:** Enabling developers to build massive, smooth web platforms (such as Netflix or Gmail) and run backend servers using environments like Node.js.
-* **Cross-Platform Development:** Extending beyond the web browser to build native mobile applications and desktop software.
+1. **Client-Side Web Development:** Powering interactive features like drop-down menus, modal windows, form validations, and complex animations directly in the user's browser.
+2. **Full-Stack Web Applications:** Enabling developers to build massive, smooth web platforms (such as Netflix or Gmail) and run backend servers using environments like Node.js.
+3. **Cross-Platform Development:** Extending beyond the web browser to build native mobile applications and desktop software.
 
 ## Rust
 Written by **Maxwell**
@@ -71,11 +71,11 @@ Written by **Maxwell**
 Rust is a fast and reliable programming language designed to help developers build software that is both safe and efficient. One of Rust's main goals is to prevent common programming mistakes, such as memory errors and crashes, while still delivering high performance. Because of this, Rust is often used for projects where speed, stability, and security are important.
 
 ### How it is used today
-* **Systems Programming:** Building operating systems, embedded systems, and other software that works closely with computer hardware.
+1. **Systems Programming:** Building operating systems, embedded systems, and other software that works closely with computer hardware.
 
-* **Backend Development:** Creating web servers, APIs, and cloud-based applications that need to handle many users efficiently.
+2. **Backend Development:** Creating web servers, APIs, and cloud-based applications that need to handle many users efficiently.
 
-* **Cross-Platform Development:** Developing desktop applications and command-line tools that can run on different operating systems such as Windows, Linux, and macOS.
+3. **Cross-Platform Development:** Developing desktop applications and command-line tools that can run on different operating systems such as Windows, Linux, and macOS.
 
 
 ## Conclusion
