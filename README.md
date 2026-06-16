@@ -3,10 +3,10 @@
 
 A collaborative guide by
 
-- Brian
-- Trevor
-- Christine
-- Maxwell 
+- [Brian](https://github.com/brianirungu224-sys)
+- [Trevor](https://github.com/TrevorWachira690)
+- [Christine](https://github.com/kaywambui-1)
+- [Maxwell](https://github.com/maxboffin254) 
 
 ## Table of Contents
 - [Introduction](#introduction)
