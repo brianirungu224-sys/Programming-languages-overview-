@@ -81,6 +81,7 @@ Rust is a fast and reliable programming language designed to help developers bui
 ## Conclusion
 In conclusion, Python, JavaScript, Kotlin, and Rust each have unique strengths and are suited for different types of software development. Learning these languages helps programmers understand various approaches to solving problems and building applications. As technology continues to evolve, these languages will remain valuable tools for developers and students around the world.
 ### How each programming language is used
+
 |Language|Main area of application|
 |---------|-------------------|
 |Python|Data Science and AI|
