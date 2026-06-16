@@ -56,7 +56,7 @@ Written by **Christine**
 
 ![JavaScript logo](https://upload.wikimedia.org/wikipedia/commons/d/dc/Javascript-shield.png)
 
-JavaScript is a high-level, dynamic programming language that serves as the scripting backbone for modern web interaction. While HTML establishes the structure of a webpage and CSS handles the visual styling, JavaScript adds behavior and intelligence. It allows websites to respond to user actions, calculate data inputs, and update page content dynamically in real-time without requiring a full page reload.
+JavaScript is a high-level, dynamic programming language that serves as the scripting backbone for modern web interaction. While HTML establishes the structure of a webpage and CSS handles the visual styling, JavaScript adds behavior and intelligence. It allows websites to respond to user actions, calculate data inputs, using event listeners, and update page content dynamically in real-time without requiring a full page reload.
 
 ### How it is used today
 1. **Client-Side Web Development:** Powering interactive features like drop-down menus, modal windows, form validations, and complex animations directly in the user's browser.
