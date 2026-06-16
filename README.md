@@ -17,7 +17,7 @@ A collaborative guide by
 
 ## Introduction
 
-This guide covers tools that every student should know about.
+This guide covers tools that every student should know about
 Each section is written by a different team member.
 
 ## Python
